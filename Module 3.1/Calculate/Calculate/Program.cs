@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab0
+namespace Calculate
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+            //
         }
     }
 }
